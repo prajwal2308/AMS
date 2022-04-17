@@ -1,1 +1,1 @@
-# AMS
+# AMS2.github.io
