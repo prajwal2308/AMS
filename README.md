@@ -1,5 +1,4 @@
 # Applicant Management System (AMS)
-# Attendance Management System (AMS)
 
 An automated Attendance Management System built using Flask, Python, SQL, and HTML/CSS to streamline attendance tracking for educational institutions or workplaces.
 
