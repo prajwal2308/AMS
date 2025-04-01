@@ -48,23 +48,11 @@ python app.py
 ```
 The application will be available at http://127.0.0.1:5000/
 
-## Screenshots  
-
-(Add relevant screenshots here to showcase the UI and features.)  
-
 ## Future Enhancements  
 
 - Facial Recognition Integration – Use AI for attendance via facial recognition.  
 - Admin Panel Enhancements – More control over reports and user roles.  
-- Email Notifications – Notify users about attendance via email alerts.  
-
-## License  
-
-This project is licensed under the MIT License.  
-
-## Contributing  
-
-Contributions are welcome. If you would like to enhance this project, feel free to fork the repository and submit a pull request.  
+- Email Notifications – Notify users about attendance via email alerts.    
 
 ## Contact  
 
